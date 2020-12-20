@@ -25,7 +25,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 ## AI Project :
 ### Recognizing Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
 This is sub-project of ongoing development of fully functional opensource BanglaOCR. 
-[Google colab link](https://colab.research.google.com/drive/1sGOqpF5XOfQ9-6xuigj21zmv6tLJ2a2j?usp=sharing)
+[Google Colab Link](https://colab.research.google.com/drive/1sGOqpF5XOfQ9-6xuigj21zmv6tLJ2a2j?usp=sharing)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=8&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats)
