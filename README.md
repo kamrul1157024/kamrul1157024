@@ -23,13 +23,14 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
    This was created to fix the naming of assignment filed submited by students by recursively iterating through files 
    [see details](https://github.com/kamrul1157024/Dropbox_AssignmentFixer)
 ### Number Games : 
-  This Number Game Based on the Number theory (S G Telag) (page-14)     <a href="https://sites.google.com/view/kamrul1157024/fun/numbergame" class="button">PLAY</a>
-  [see details](https://github.com/kamrul1157024/NumberGame)
+  This Number Game Based on the Number theory (S G Telag) (page-14)     
+  |[play it](https://sites.google.com/view/kamrul1157024/fun/numbergame)|...
+  |[see details](https://github.com/kamrul1157024/NumberGame)|
 ## AI Project :
 ### Recognizing Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
 This is sub-project of ongoing development of fully functional opensource BanglaOCR. 
-[See Details](https://sites.google.com/view/kamrul1157024/projects/ai/bangla-character-recognition)
-[colab notebook](https://colab.research.google.com/drive/1sGOqpF5XOfQ9-6xuigj21zmv6tLJ2a2j#scrollTo=fqkyssD-kU_T&uniqifier=4)
+|[see Details](https://sites.google.com/view/kamrul1157024/projects/ai/bangla-character-recognition)|...|
+[colab notebook](https://colab.research.google.com/drive/1sGOqpF5XOfQ9-6xuigj21zmv6tLJ2a2j#scrollTo=fqkyssD-kU_T&uniqifier=4)|
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=8&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats)
