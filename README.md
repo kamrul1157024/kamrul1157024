@@ -20,6 +20,11 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
    This was created to fix the naming of assignment filed submited by students by recursively iterating through files 
 
 ### Number Games : 
-  This Number Game Based on the Number theory (S G Telag) (page-14) [Play number Game](https://sites.google.com/view/kamrul1157024/fun/numbergame)
+  This Number Game Based on the Number theory (S G Telag) (page-14) <a href="https://sites.google.com/view/kamrul1157024/fun/numbergame" class="button">PLAY</a>
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=8&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats)
+
+## AI Project :
+### Recognising Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
+This is sub-project of ongoing development of fully functional opensource BanglaOCR .
