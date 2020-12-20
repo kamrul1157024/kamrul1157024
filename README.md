@@ -23,7 +23,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
   This Number Game Based on the Number theory (S G Telag) (page-14)     <a href="https://sites.google.com/view/kamrul1157024/fun/numbergame" class="button">PLAY</a>
 
 ## AI Project :
-### Recognising Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
+### Recognizing Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
 This is sub-project of ongoing development of fully functional opensource BanglaOCR. 
 [Google colab link](https://colab.research.google.com/drive/1sGOqpF5XOfQ9-6xuigj21zmv6tLJ2a2j?usp=sharing)
 
