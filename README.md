@@ -4,6 +4,57 @@
 
 ### HI,This is MD. Kamrul Hassan 
 An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming andTechnology.
+### 🧰 Languages and Tools:
+<p align="right">
+<img 
+     src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" 
+     alt="Java" height="50" style="vertical-align:top; margin:4px">
+<img 
+     src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
+     alt="Javascript" height="50" style="vertical-align:top; margin:4px">
+<img 
+     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" 
+     alt="C" height="50" style="vertical-align:top; margin:4px">
+<img 
+     src="https://img.icons8.com/color/452/c-plus-plus-logo.png" 
+     alt="C++" height="50" style="vertical-align:top; margin:4px"> 
+ <img 
+     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
+     alt="Python" height="50" style="vertical-align:top; margin:4px">
+ <img 
+     src="https://bashlogo.com/img/logo/jpg/full_colored_dark.jpg" 
+     alt="Bash" height="50" style="vertical-align:top; margin:4px">
+ <img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png" 
+     alt="Vim" height="50" style="vertical-align:top; margin:4px">
+  <img 
+     src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" 
+     alt="HTML" height="50" style="vertical-align:top; margin:4px">
+  <img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
+     alt="CSS" height="50" style="vertical-align:top; margin:4px">
+  <img 
+     src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" 
+     alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
+</p>
+
+### 🧰 Frameworks:
+<p align="right">
+<img 
+     src="https://inletlabs.com/assets/images/logo_stack/tensorflow-logo.png" 
+     alt="Tensorflow" height="40" style="vertical-align:top; margin:10px">
+<img 
+     src="https://www.logolynx.com/images/logolynx/08/08bc1e1ab432c9d956566b235925dd47.png" 
+     alt="NodeJS" height="40" style="vertical-align:top; margin:10px">
+<img 
+     src="https://transang.me/content/images/2019/11/ExpressJS.png"
+     alt="expressJS" height="40" style="vertical-align:top; margin:10px">
+<img 
+     src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" 
+     alt="JQuery" height="40" style="vertical-align:top; margin:10px"> 
+</p>
+
+
 ## Projects List :
 ### Github Blog : 
    [TreeInCode](https://kamrul1157024.github.io/) is Programming blog mostly focused on problem solving and algorithms.I posted some [Solution](https://kamrul1157024.github.io/Solution_Searcher/output.html) for problems of LightOJ and SPOJ and will be added more problems latter and blog for implementing [AVL Tree](https://kamrul1157024.github.io/tutorials/Avl%20tree/avl_tree.html) in java.
