@@ -55,9 +55,9 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 </p>
 
 ### Contact Information:
-[[Portfolio Website]](https://sites.google.com/view/kamrul1157024/home)
-[[Linkedin]](https://www.linkedin.com/in/kamrul1157024/)
-[[StackOverflow]](https://stackoverflow.com/users/8904335/kamrul-hassan)
+[[Portfolio Website]](https://sites.google.com/view/kamrul1157024/home)-
+[[Linkedin]](https://www.linkedin.com/in/kamrul1157024/)-
+[[StackOverflow]](https://stackoverflow.com/users/8904335/kamrul-hassan)-
 [[Kamrul1157024@gmail.com ]](mailto:Kamrul1157024@gmail.com )
 ## Projects List :
 ### Github Blog : 
@@ -65,24 +65,24 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 
 ### Github Blog Manager :  
    Created for managing my [TreeInCode](https://kamrul1157024.github.io/) blog dynamically from my computer
-   {[see details](https://github.com/kamrul1157024/Blog-Management)}
+   [[see details](https://github.com/kamrul1157024/Blog-Management)]
    
 ### Bricks Breaker Game in C++ :
    I created and old scholl Bricks Breaker Game using openGL 2D and C++. 
-   {[see details](https://github.com/kamrul1157024/bircks_breaker_using_c)}
+   [[see details](https://github.com/kamrul1157024/bircks_breaker_using_c)]
    
 ### Youtube MultiUploader : 
    This was created upload muliple videos on youtube simulateniously. 
-   {[see details](https://github.com/kamrul1157024/tubeUpload)}
+   [[see details](https://github.com/kamrul1157024/tubeUpload)]
    
 ### Session Management : 
    This is webapp built to create log in log out session with email verification using Java and MySql.
-   {[see details](https://github.com/kamrul1157024/JAVASeverlet)}
+   [[see details](https://github.com/kamrul1157024/JAVASeverlet)]
 ### Dropbox Assignment Fixer :
    This was created to fix the naming of assignment filed submited by students by recursively iterating through files 
-   {[see details](https://github.com/kamrul1157024/Dropbox_AssignmentFixer)}
+   [[see details](https://github.com/kamrul1157024/Dropbox_AssignmentFixer)]
 ### Number Games : 
-  This Number Game Based on the Number theory (S G Telag) (page-14)     {[play it](https://sites.google.com/view/kamrul1157024/fun/numbergame)}{[see details](https://github.com/kamrul1157024/NumberGame)}
+  This Number Game Based on the Number theory (S G Telag) (page-14)     [[play it]](https://sites.google.com/view/kamrul1157024/fun/numbergame)[[see details]](https://github.com/kamrul1157024/NumberGame)}
 ## AI Project :
 ### Recognizing Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
 This is sub-project of ongoing development of fully functional opensource BanglaOCR. 
