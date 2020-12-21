@@ -7,8 +7,8 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 ### Languages and Tools:
 <p align="right">
 <img 
-     src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" 
-     alt="Java" height="50" style="vertical-align:top; margin:4px">
+     src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" 
+     alt="Java" height="80" style="vertical-align:top; margin:4px">
 <img 
      src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
      alt="Javascript" height="50" style="vertical-align:top; margin:4px">
