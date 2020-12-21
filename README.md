@@ -4,7 +4,7 @@
 
 ### HI,This is MD. Kamrul Hassan 
 An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming andTechnology.
-### 🧰 Languages and Tools:
+### Languages and Tools:
 <p align="right">
 <img 
      src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" 
@@ -38,7 +38,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
      alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
 </p>
 
-### 🧰 Frameworks:
+###Frameworks:
 <p align="right">
 <img 
      src="https://inletlabs.com/assets/images/logo_stack/tensorflow-logo.png" 
