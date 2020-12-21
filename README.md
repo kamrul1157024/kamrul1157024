@@ -2,7 +2,7 @@
 ![Kamrul's github stats](https://github-readme-stats.vercel.app/api?username=kamrul1157024&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=8&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats)
 
-### This is MD. Kamrul Hassan 👋
+### HI,This is MD. Kamrul Hassan 
 An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming andTechnology.
 ## Projects List :
 ### Github Blog : 
