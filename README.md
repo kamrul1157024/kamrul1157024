@@ -44,15 +44,6 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
      src="https://inletlabs.com/assets/images/logo_stack/tensorflow-logo.png" 
      alt="Tensorflow" height="30" style="vertical-align:top; margin:10px">
 <img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" 
-     alt="Pandas" height="30" style="vertical-align:top; margin:10px">
- <img 
-     src="https://matplotlib.org/3.3.3/_static/logo2_compressed.svg" 
-     alt="Matplotlib" height="30" style="vertical-align:top; margin:10px">
- <img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" 
-     alt="Numpy" height="30" style="vertical-align:top; margin:10px">
-<img 
      src="https://www.logolynx.com/images/logolynx/08/08bc1e1ab432c9d956566b235925dd47.png" 
      alt="NodeJS" height="30" style="vertical-align:top; margin:10px">
 <img 
