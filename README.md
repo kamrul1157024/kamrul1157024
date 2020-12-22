@@ -61,7 +61,8 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 [<b>[Kamrul1157024@gmail.com]</b>](mailto:Kamrul1157024@gmail.com )
 
 ### Problem Solving:
-[<b>[Algorithm implementation Library]</b>](https://github.com/kamrul1157024/Algorithm)
+[<b>[Algorithm implementation Library]</b>](https://github.com/kamrul1157024/Algorithm)-
+[<b>[Solved Problem Code With Hint]</b>](https://kamrul1157024.github.io/Solution_Searcher/output.html)
 
 
 ## Projects List :
