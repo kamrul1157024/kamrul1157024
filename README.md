@@ -83,8 +83,8 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
    [[see details](https://github.com/kamrul1157024/tubeUpload)]
   
 ### Colour Map genration for Zone division of Dhaka City to analize COVID-19 infected areas
-   This was created scraping datas from pdf reports to identify spread of COVID-19 infection inside dhaka city.[Here](https://camo.githubusercontent.com/f01ddee21eaf2c211084df334f71ed74b566237badc5326fba6dbb18ccd0290b/68747470733a2f2f696d6775722e636f6d2f6833513247485a2e6a7067)
-you can see how fast readzones ar expanding compare to others area of the Dhaka City.     
+   This was created scraping datas from pdf reports to identify spread of COVID-19 infection inside dhaka city.[[Here]](https://camo.githubusercontent.com/f01ddee21eaf2c211084df334f71ed74b566237badc5326fba6dbb18ccd0290b/68747470733a2f2f696d6775722e636f6d2f6833513247485a2e6a7067)
+you can see how red zones are expanding faster compare to others area of the Dhaka City.     
   
 ### Session Management : 
    This is webapp built to create log in log out session with email verification using Java and MySql.
