@@ -82,7 +82,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
    This was created upload muliple videos on youtube simulateniously. 
    [[see details](https://github.com/kamrul1157024/tubeUpload)]
   
-### Zone Division Colour Map genration for Dhaka City for COVID-19 Infected Area
+### Colour Map genration for Zone division of Dhaka City to analize COVID-19 infected areas
    This was created scraping datas from pdf reports to identify spread of COVID-19 infection inside dhaka city.[Here](https://camo.githubusercontent.com/f01ddee21eaf2c211084df334f71ed74b566237badc5326fba6dbb18ccd0290b/68747470733a2f2f696d6775722e636f6d2f6833513247485a2e6a7067)
 you can see how fast readzones ar expanding compare to others area of the Dhaka City.     
   
