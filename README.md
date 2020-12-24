@@ -68,7 +68,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 
 ## Projects List :
 ### Github Blog : 
-   [TreeInCode](https://kamrul1157024.github.io/) is Programming blog mostly focused on problem solving and algorithms.I posted some [Solution](https://kamrul1157024.github.io/Solution_Searcher/output.html) for problems of LightOJ and SPOJ and will be added more problems latter and blog for implementing [AVL Tree](https://kamrul1157024.github.io/tutorials/Avl%20tree/avl_tree.html) in java.
+   [<b>TreeInCode</b>](https://kamrul1157024.github.io/) is Programming blog mostly focused on problem solving and algorithms.I posted some [<b>Solution</b>](https://kamrul1157024.github.io/Solution_Searcher/output.html) for problems of LightOJ and SPOJ and will be added more problems latter and blog for implementing [<b>AVL Tree</b>](https://kamrul1157024.github.io/tutorials/Avl%20tree/avl_tree.html) in java.
 
 ### Github Blog Manager :  
    Created for managing my [TreeInCode](https://kamrul1157024.github.io/) blog dynamically from my computer
