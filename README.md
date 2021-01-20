@@ -65,7 +65,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 [<b>[Algorithm implementation Library]</b>](https://github.com/kamrul1157024/Algorithm)-
 [<b>[Solved Problem's Code With Hint]</b>](https://kamrul1157024.github.io/Solution_Searcher/output.html)
 
-
+<!--
 ## Projects List :
 ### Github Blog : 
    [<b>TreeInCode</b>](https://kamrul1157024.github.io/) is Programming blog mostly focused on problem solving and algorithms.I posted some [<b>Solution</b>](https://kamrul1157024.github.io/Solution_Searcher/output.html) for problems of LightOJ and SPOJ and will be added more problems latter and blog for implementing [<b>AVL Tree</b>](https://kamrul1157024.github.io/tutorials/Avl%20tree/avl_tree.html) in java.
@@ -94,6 +94,7 @@ you can see how red zones are expanding faster compare to others area of the Dha
    [[see details](https://github.com/kamrul1157024/Dropbox_AssignmentFixer)]
 ### Number Games : 
   This Number Game Based on the Number theory (S G Telag) (page-14)     [[play it]](https://sites.google.com/view/kamrul1157024/fun/numbergame)-[[see details]](https://github.com/kamrul1157024/NumberGame)
+  -->
 ## AI Project :
 ### Recognizing Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
 This is sub-project of ongoing development of fully functional opensource BanglaOCR. 
