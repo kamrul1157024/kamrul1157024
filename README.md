@@ -98,8 +98,4 @@ you can see how red zones are expanding faster compare to others area of the Dha
 ### Recognizing Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
 This is sub-project of ongoing development of fully functional opensource BanglaOCR. 
 [[see details](https://sites.google.com/view/kamrul1157024/projects/ai/bangla-character-recognition)]-[[colab notebook](https://colab.research.google.com/drive/1sGOqpF5XOfQ9-6xuigj21zmv6tLJ2a2j#scrollTo=fqkyssD-kU_T&uniqifier=4)]
-# Stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-![Kamrul's github stats](https://github-readme-stats.vercel.app/api?username=kamrul1157024&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=8&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats)
 
