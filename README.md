@@ -17,23 +17,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
  <img 
      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
      alt="Python" height="50" style="vertical-align:top; margin:4px">
- <img 
-     src="https://bashlogo.com/img/logo/jpg/full_colored_dark.jpg" 
-     alt="Bash" height="50" style="vertical-align:top; margin:4px">
- <img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png" 
-     alt="Vim" height="50" style="vertical-align:top; margin:4px">
-  <img 
-     src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" 
-     alt="HTML" height="50" style="vertical-align:top; margin:4px">
-  <img 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
-     alt="CSS" height="50" style="vertical-align:top; margin:4px">
-  <img 
-     src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" 
-     alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
-</p>
-
+     
 ### Frameworks:
 <p align="right">
  <img 
