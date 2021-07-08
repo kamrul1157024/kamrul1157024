@@ -1,6 +1,6 @@
-### HI,This is MD. Kamrul Hassan,
+# HI, This is MD. Kamrul Hassan
 An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming andTechnology.
-### Languages and Tools:
+## Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=10&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats)
 <!-- <p align="right">
 <img 
@@ -19,7 +19,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
      alt="Python" height="50" style="vertical-align:top; margin:4px"> -->
      
-### Frameworks:
+## Frameworks:
 <p align="right">
  <img 
      src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" 
@@ -35,14 +35,14 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
      alt="JQuery" height="30" style="vertical-align:top; margin:10px"> 
 </p>
 
-### Contact Information:
+## Contact Information:
 [<b>[Portfolio Website]</b>](https://sites.google.com/view/kamrul1157024/home)-
 [<b>[TreeInCode]</b>](https://kamrul1157024.github.io/)-
 [<b>[Linkedin]</b>](https://www.linkedin.com/in/kamrul1157024/)-
 [<b>[StackOverflow]</b>](https://stackoverflow.com/users/8904335/kamrul-hassan)-
 [<b>[Kamrul1157024@gmail.com]</b>](mailto:Kamrul1157024@gmail.com )
 
-### Problem Solving:
+## Problem Solving:
 [<b>[Algorithm implementation Library]</b>](https://github.com/kamrul1157024/Algorithm)-
 [<b>[Solved Problem's Code With Hint]</b>](https://kamrul1157024.github.io/Solution_Searcher/output.html)
 [<p align='center'><b>--->[Let me guess the number on your mind]<---</b></p>](https://sites.google.com/view/kamrul1157024/fun/numbergame)
