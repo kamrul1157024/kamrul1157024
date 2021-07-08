@@ -2,7 +2,7 @@
 An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming andTechnology.
 ### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=10&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats)
-<p align="right">
+<!-- <p align="right">
 <img 
      src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" 
      alt="Java" height="80" style="vertical-align:top; margin:4px">
@@ -17,7 +17,7 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
      alt="C++" height="50" style="vertical-align:top; margin:4px"> 
  <img 
      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
-     alt="Python" height="50" style="vertical-align:top; margin:4px">
+     alt="Python" height="50" style="vertical-align:top; margin:4px"> -->
      
 ### Frameworks:
 <p align="right">
@@ -27,9 +27,6 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 <img 
      src="https://inletlabs.com/assets/images/logo_stack/tensorflow-logo.png" 
      alt="Tensorflow" height="30" style="vertical-align:top; margin:10px">
-<img 
-     src="https://www.logolynx.com/images/logolynx/08/08bc1e1ab432c9d956566b235925dd47.png" 
-     alt="NodeJS" height="30" style="vertical-align:top; margin:10px">
 <img 
      src="https://transang.me/content/images/2019/11/ExpressJS.png"
      alt="expressJS" height="30" style="vertical-align:top; margin:10px">
