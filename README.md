@@ -81,3 +81,5 @@ you can see how red zones are expanding faster compare to others area of the Dha
 This is sub-project of ongoing development of fully functional opensource BanglaOCR. 
 [[see details](https://sites.google.com/view/kamrul1157024/projects/ai/bangla-character-recognition)]-[[colab notebook](https://colab.research.google.com/drive/1sGOqpF5XOfQ9-6xuigj21zmv6tLJ2a2j#scrollTo=fqkyssD-kU_T&uniqifier=4)]
 
+### Text Language Identification using Machine Learning
+It currently Identify Bangla,Banglish and English but can be modified and traiend to indeify different lanaguages.[[colab notebook](https://colab.research.google.com/drive/1JWbZEW2lDJXmZlLLCzAjL7Py7grj8ntF)]
