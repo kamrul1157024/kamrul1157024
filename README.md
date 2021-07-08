@@ -27,12 +27,6 @@ An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusias
 <img 
      src="https://inletlabs.com/assets/images/logo_stack/tensorflow-logo.png" 
      alt="Tensorflow" height="30" style="vertical-align:top; margin:10px">
-<img 
-     src="https://transang.me/content/images/2019/11/ExpressJS.png"
-     alt="expressJS" height="30" style="vertical-align:top; margin:10px">
-<img 
-     src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" 
-     alt="JQuery" height="30" style="vertical-align:top; margin:10px"> 
 </p>
 
 ## Contact Information:
