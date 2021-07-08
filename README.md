@@ -84,5 +84,5 @@ This is sub-project of ongoing development of fully functional opensource Bangla
 ### Text Language Identification using NLP, Machine Learning
 It currently Identify Bangla,Banglish and English but can be modified and trained to indeify different lanaguages. [[colab notebook](https://colab.research.google.com/drive/1JWbZEW2lDJXmZlLLCzAjL7Py7grj8ntF)]
 
-### Begali News Classification Using NLP, Machine Learning and Deep Learning
+### Bengali News Classification Using NLP, Machine Learning and Deep Learning
 It can categorize News articles. [[colab notebook](https://colab.research.google.com/drive/1ts81lknLyb03ch_haiYI2QtT-Hix0Thx?usp=sharing)]
