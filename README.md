@@ -1,7 +1,7 @@
 # HI, This is MD. Kamrul Hassan
 An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming andTechnology.
 ## Languages and Tools:
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=10&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul1157024&langs_count=10&hide=html,css&layout=compact)](https://github.com/kamrul1157024/github-readme-stats)
 <!-- <p align="right">
 <img 
      src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" 
