@@ -1,32 +1,11 @@
 # HI, This is MD. Kamrul Hassan
 An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming and Technology.
 ## Languages and Tools:
-<!-- <p align="right">
-<img 
-     src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" 
-     alt="Java" height="80" style="vertical-align:top; margin:4px">
-<img 
-     src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
-     alt="Javascript" height="50" style="vertical-align:top; margin:4px">
-<img 
-     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" 
-     alt="C" height="50" style="vertical-align:top; margin:4px">
-<img 
-     src="https://img.icons8.com/color/452/c-plus-plus-logo.png" 
-     alt="C++" height="50" style="vertical-align:top; margin:4px"> 
- <img 
-     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
-     alt="Python" height="50" style="vertical-align:top; margin:4px"> -->
-     
-## Frameworks:
-<p align="right">
- <img 
-     src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" 
-     alt="Spring" height="30" style="vertical-align:top; margin:10px">
-<img 
-     src="https://inletlabs.com/assets/images/logo_stack/tensorflow-logo.png" 
-     alt="Tensorflow" height="30" style="vertical-align:top; margin:10px">
-</p>
+ - JavaScript ( NodeJs, ExpressJs, React, ... )
+ - Java ( Spring Boot, ...)
+ - Python ( Flask, Django, scikit-learn, Tensorflow, ... )
+ - C++
+ - AWS ( VPC, EC2, SQS, Kinesis, Route-53, ... )
 
 ## Contact Information:
 [<b>[Portfolio Website]</b>](https://sites.google.com/view/kamrul1157024/home)-
