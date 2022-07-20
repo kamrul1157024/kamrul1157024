@@ -49,7 +49,7 @@ you can see how red zones are expanding faster compare to others area of the Dha
   This Number Game Based on the Number theory (S G Telag) (page-14)     [[play it]](https://sites.google.com/view/kamrul1157024/fun/numbergame)-[[see details]](https://github.com/kamrul1157024/NumberGame)
   -->
 ## AI :
-### Recognizing Bangla Hand Written Character Usinig Modified VGG-16 Architecture 
+### Recognizing Bangla Hand Written Character Using Modified VGG-16 Architecture 
 This is sub-project of ongoing development of fully functional opensource BanglaOCR. 
 [[see details](https://sites.google.com/view/kamrul1157024/projects/ai/bangla-character-recognition)]-[[colab notebook](https://colab.research.google.com/drive/1sGOqpF5XOfQ9-6xuigj21zmv6tLJ2a2j#scrollTo=fqkyssD-kU_T&uniqifier=4)]
 
