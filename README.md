@@ -1,5 +1,5 @@
 # HI, This is MD. Kamrul Hassan
-An Algorithm, Mathematics ,Machine Learning and Artificial Intelligent Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming and Technology.
+An algorithm, Mathematics, Distributed System Enthusiast. My Hobby is [Photography](https://sites.google.com/view/kamrul1157024/photography) and learning about Programming and Technology.
 ## Languages and Tools:
  - JavaScript ( NodeJs, ExpressJs, React, ... )
  - Java ( Spring Boot, ...)
