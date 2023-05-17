@@ -8,16 +8,16 @@ An algorithm, Mathematics, Distributed System Enthusiast. My Hobby is [Photograp
  - AWS ( VPC, EC2, SQS, Kinesis, Route-53, ... )
 
 ## Contact Information:
-[<b>[Portfolio Website]</b>](https://sites.google.com/view/kamrul1157024/home)-
-[<b>[TreeInCode]</b>](https://kamrul1157024.github.io/)-
+[<b>[Resume]</b>](https://kamrul-notepad.com/resume/)-
+[<b>[kamrul-notepad]</b>](https://kamrul-notepad.com/)-
 [<b>[Linkedin]</b>](https://www.linkedin.com/in/kamrul1157024/)-
 [<b>[StackOverflow]</b>](https://stackoverflow.com/users/8904335/kamrul-hassan)-
 [<b>[Kamrul1157024@gmail.com]</b>](mailto:Kamrul1157024@gmail.com )
 
-## Problem Solving:
+<!-- ## Problem Solving:
 [<b>[Algorithm implementation Library]</b>](https://github.com/kamrul1157024/Algorithm)-
 [<b>[Solved Problem's Code With Hint]</b>](https://kamrul1157024.github.io/Solution_Searcher/output.html)-
-[<b>[Let me guess the number on your mind]</b>](https://sites.google.com/view/kamrul1157024/fun/numbergame)
+[<b>[Let me guess the number on your mind]</b>](https://sites.google.com/view/kamrul1157024/fun/numbergame) -->
 <!--
 ## Projects List :
 ### Github Blog : 
